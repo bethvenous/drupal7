@@ -14,7 +14,7 @@ echo "i like $a and $b";
 echo'<br/><br/>';
 echo 'i like $a and $b';
 echo'<br/><br/>';
-echo 'i like "$a" and "$b"';
+echo 'i like "$a" d "$b"';
 echo'<br/><br/>';
 echo "i like '$a' and '$b'";
 echo'<br/><br/>';
