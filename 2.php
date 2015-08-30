@@ -57,4 +57,6 @@ for ($i=33; $i<=126; $i++)
 	// print "$c";
 	 echo "<br/>";
 	}
+
+	echo "add new";
 ?>
